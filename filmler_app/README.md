@@ -1,16 +1,7 @@
-# filmler_app
+# Filmler App
 
-A new Flutter project.
+Bu proje, Flutter ve BloC state management kullanarak geliştirilmiş bir film kiralama uygulamasıdır. Kullanıcılar filmleri listeleyebilir ve her bir filme tıklayarak detay sayfasına geçiş yapabilirler.
 
-## Getting Started
+# Örnek Ekran Görseli 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1717326647](https://github.com/gamzeyas/filmler_app/assets/148863631/a211ff03-efa4-40d7-8b26-ff203ce0ba35)
